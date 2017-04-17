@@ -1,7 +1,7 @@
 # Huawei LiteOS开源项目贡献流程
 * [代码贡献流程图](#代码贡献流程图)
 * [操作步骤](#操作步骤)
-* [Huawei LiteOS Hackthon参赛者需要额外做一步](#Huawei LiteOS Hackthon参赛者需要额外做一步)
+* [Huawei-LiteOS-Hackthon参赛者需要额外做一步](#Huawei-LiteOS-Hackthon参赛者需要额外做一步)
 
 ## 代码贡献流程图
 ![](./meta/contribution/image1.png)
