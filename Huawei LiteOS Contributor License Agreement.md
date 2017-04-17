@@ -1,11 +1,7 @@
 
 # Huawei LiteOS Contributor License Agreement  
 
-* [What is this agreement about](#What is this agreement about)
-* [Contributor License Agreement](#Contributor License Agreement)
-* [1. Grant of Copyright License](#1. Grant of Copyright License)&ensp
-* [2. Grant of Patent License](#2. Grant of Patent License)&ensp
-* [3. Source of Contribution](#3. Source of Contribution)&ensp
+* [What is this agreement about?](#What is this agreement about?)
 
 ## What is this agreement about?
 
