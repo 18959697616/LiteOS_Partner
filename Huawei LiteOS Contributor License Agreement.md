@@ -3,9 +3,7 @@
 
 * [What is this agreement about](#What-is-this-agreement-about)
 * [Contributor License Agreement](#Contributor-License-Agreement)
-  * [1. Grant of Copyright License](#1.-Grant-of-Copyright-License)&ensp
-　　* [1. Grant of Copyright License](#1.-Grant-of-Copyright-License)&ensp
-
+*     [1. Grant of Copyright License](#1.-Grant-of-Copyright-License)
 
 ## What is this agreement about
 
