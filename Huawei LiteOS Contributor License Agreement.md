@@ -1,8 +1,8 @@
 
 # Huawei LiteOS Contributor License Agreement  
 
-[What is this agreement about](#What-is-this-agreement-about)
-[Contributor License Agreement](#Contributor-License-Agreement)
+* [What is this agreement about](#What-is-this-agreement-about)
+* [Contributor License Agreement](#Contributor-License-Agreement)
 
 ## What is this agreement about
 
