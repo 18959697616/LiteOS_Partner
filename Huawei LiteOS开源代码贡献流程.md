@@ -1,18 +1,18 @@
-#Huawei LiteOS开源项目贡献流程
+# Huawei LiteOS开源项目贡献流程
+* [代码贡献流程图](#代码贡献流程图)
+* [操作步骤](#操作步骤)
+* [Huawei LiteOS Hackthon参赛者需要额外做一步](#Huawei LiteOS Hackthon参赛者需要额外做一步)
 
-[TOC]
-
-##代码贡献流程图
-
+## 代码贡献流程图
 ![](./meta/contribution/image1.png)
 
-##操作步骤
+## 操作步骤
 
 1.  注册github账号，并登录网站。
   
 	![](./meta/contribution/image2.png)
 
-2.  搜索`LITEOS/LiteOS\_Kernel`项目，Fork到自己名下。传送门：[*https://github.com/LITEOS/LiteOS\_Kernel*](https://github.com/LITEOS/LiteOS_Kernel)
+2.  搜索`LITEOS/LiteOS_Kernel`项目，Fork到自己名下。传送门：[*https://github.com/LITEOS/LiteOS\_Kernel*](https://github.com/LITEOS/LiteOS_Kernel)
 
 	![](./meta/contribution/image3.png)
 
@@ -42,7 +42,7 @@
 	
 	![](./meta/contribution/image9.png)
 
-##Huawei LiteOS Hackthon参赛者需要额外做一步
+## Huawei LiteOS Hackthon参赛者需要额外做一步
 
 对于选手，需要将完成的作品工程压缩成`.rar`，在github官网上传至hackthon project
 
